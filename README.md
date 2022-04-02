@@ -1,8 +1,9 @@
-Introduction to Basic Operations in Data Science
+**Introduction to Basic Operations in Data Science:**
+
 In this task, you will be given a dataset (Titanic Survivers) and your job is to analyse the data given using relevant functions in Pandas, Numpy and Matplotlib.
 
-Tasks to Perform on this Dataset
-A few things that I want you to do is -
+**Tasks to Perform on this Dataset:
+**
 
  Download the dataset and load it using Pandas.
  Remove all the NULL values which are present in the dataset.
