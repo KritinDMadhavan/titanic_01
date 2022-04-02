@@ -11,7 +11,8 @@ A few things that I want you to do is -
  Plot a histogram for 'Fare','Age' column
  Plot bar chart for all binary columns (like 'Survived')
 
-References
+References:
+
 Dataset - https://www.kaggle.com/c/titanic/
 Pandas Tutorial - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 Data Analysis with Python - https://www.youtube.com/watch?v=r-uOLxNrNk8
